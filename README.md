@@ -36,5 +36,5 @@ while running:
             running = False
 ```
 **_5. Game Assets:_**:
-    * [Icon Archive:](https://iconarchive.com/) the website offers a lot of game characters to download
-    * [Leshy SFMarker:](https://www.leshylabs.com/apps/sfMaker) the website can download game effects, and it can also make your own simple sound effect
+* [Icon Archive:](https://iconarchive.com/) the website offers a lot of game characters to download
+* [Leshy SFMarker:](https://www.leshylabs.com/apps/sfMaker) the website can download game effects, and it can also make your own simple sound effect
