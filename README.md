@@ -3,9 +3,7 @@
 1. **References**
     1. Pygame Page: http://pygame.org
     2. documentation: http://pygame.org/docs/ref/
-    3. Icon Archive: https://iconarchive.com/  (download game characters)
-    4. Leshy SFMarker: https://www.leshylabs.com/apps/sfMaker   (download sound effects)
-    5. ~~XXXXXXX had forgotten~~ <br><br>
+    3. ~~XXXXXXX had forgotten~~ <br><br>
 ------
 
 **_2. What is Pygame:_**
@@ -37,3 +35,6 @@ while running:
         if event.type == pygame.QUIT: 
             running = False
 ```
+**_5. Game Assets:_**:
+    * [Icon Archive:](https://iconarchive.com/) the website offers a lot of game characters to download
+    * [Leshy SFMarker:](https://www.leshylabs.com/apps/sfMaker) the website can download game effects, and it can also make your own simple sound effect
