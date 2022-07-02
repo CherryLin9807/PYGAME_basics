@@ -39,4 +39,5 @@ while running:
 * [Icon Archive:](https://iconarchive.com/) the website offers a lot of game characters to download
 * [Leshy SFMarker:](https://www.leshylabs.com/apps/sfMaker) the website can download game effects, and it can also make your own simple sound effect
 
-![Program screenshot](https://github.com/CherryLin9807/PYGAME_basics/blob/main/%E6%93%B7%E5%8F%96.PNG)
+<img src="https://github.com/CherryLin9807/PYGAME_basics/blob/main/%E6%93%B7%E5%8F%96.PNG" width="400" height="300" alt="2.py program screenshot"><br>
+
