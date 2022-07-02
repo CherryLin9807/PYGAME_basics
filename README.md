@@ -5,7 +5,7 @@
     2. documentation: http://pygame.org/docs/ref/
     3. Icon Archive: https://iconarchive.com/  (download game characters)
     4. Leshy SFMarker: https://www.leshylabs.com/apps/sfMaker   (download sound effects)
-    5. ~~XXXXXXX had forgotten~~
+    5. ~~XXXXXXX had forgotten~~ <br><br><br>
 ------
 
 **_2. What is Pygame:_**
