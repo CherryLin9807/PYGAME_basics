@@ -15,8 +15,25 @@
   * Pygame provides many built-in game objects to make games
 
 **_3. PYGame Basics_**:
-| name | Desciption |
+| Code | Desciption |
 |:-----:|:----------:|
 |_1.py_| Create my game surface, game loop and drawing.|
 |_2.py_| Blit text, font, sound and image objects.     |
 |_3.py_| Getting user keyboard and collision dection.  |
+
+**_4. Code snippet_**
+```python
+#Create game display
+WINDOW_WIDTH, WINDOW_HEIGHT = 1000, 600
+displayscreen = pygame.display.set_mode((WINDOW_WIDTH, WINDOW_HEIGHT)) 
+pygame.display.set_caption("Feed the angrybird!")
+
+```
+```python
+pygame.mixer.music.play(-1, 0.0)
+running = True
+while running:
+    for event in pygame.event.get(): 
+        if event.type == pygame.QUIT: 
+            running = False
+```
