@@ -1,8 +1,8 @@
 # PYTHON GAMES: use Pygame module to create own little games
 
 1. References
-  1. Pygame Page: http://pygame.org
-  2. documentation: http://pygame.org/docs/ref/
+    1. Pygame Page: http://pygame.org
+    2. documentation: http://pygame.org/docs/ref/
 ------
 
 * What is Pygame:
